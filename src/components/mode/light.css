@@ -1,0 +1,8 @@
+.input::placeholder {
+  color: rgba(28, 28, 28, 0.2);
+  font-size: 14px;
+  line-height: 20px;
+}
+.modal {
+  box-shadow: 0 0 10px rgba(236, 229, 229, 0.9);
+}
